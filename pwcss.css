@@ -1,0 +1,172 @@
+body {background-image: url(fondo.jfif);
+}
+
+#fondo {
+	background-image: url(fondo.jfif);
+}
+
+#a1 {position: absolute;top:120px; left:15px;
+}
+#a2 {position: absolute;top:120px; left:170px;
+}
+#a3 {position: absolute;top:120px; left:325px;
+}
+#a4 {position: absolute;top:120px; left: 480px;
+}
+#a5 {position: absolute;top:120px; left: 635px;
+}
+#a6 {position: absolute;top:120px; left: 790px;
+}
+#a7 {position: absolute;top:120px; left: 1150px;
+}
+
+
+#t1{
+	font-size: 10px;
+}
+#t2{
+	font-size: 10px;
+}
+#t3{
+	font-size: 10px;
+}
+
+#nd{
+	background-color: rgb(182, 93, 218);
+	width: 300px;
+	position: absolute; top:260px; left:10px;
+    border:2px solid;height: 450px;	
+}
+.n1{
+	background-color: rgb(182, 93, 218);
+	width: 200px;
+	position: absolute; top:260px; left:780px;
+	border:2px solid;height: 150px;
+}
+.n2{
+	background-color: rgb(182, 93, 218);
+    width: 200px;
+    position: absolute; top:420px; left:780px;
+    border:2px solid;height: 150px;
+}
+.n3{
+	background-color: rgb(182, 93, 218);
+	width: 200px;
+    position: absolute; top:580px; left:780px ;
+    border:2px solid;height: 150px;
+}
+
+#op{
+    position: absolute;top:0px; left:0px ;
+}
+
+#n{
+	background-color: rgb(182, 93, 218);
+	position: absolute; top:200px; left:10px;
+	border:2px solid;height: 20px;
+}
+
+#is{
+	background-image: url(md.jpg);
+	width: 290px;
+	position: absolute; top:100px; left:150px;
+	border:2px solid;height: 300px;
+}
+
+#name{
+	width: 220px;
+	position: absolute; top:90px; left:30px;
+	border:2px solid;height: 10px;
+}
+
+#passw{
+	width: 220px;
+	position: absolute; top:140px; left:30px;
+	border:2px solid;height: 10px;
+}
+
+#usu{
+	width: 220px;
+	position: absolute; top:48px; left:30px;
+	font-size: 20px;
+}
+#con{
+	width: 220px;
+	position: absolute; top:97px; left:30px;
+	font-size: 20px;
+}
+#ini{
+	font-size: 20px;
+	position: absolute; top:16px; left:26px;
+}
+#reg{
+	position: absolute; top: 180px; left: 32px;
+}
+#pj{
+	width: 420px;
+	height: 420px;
+	position: absolute; top: 20px; left: 420px;
+}
+#volver{
+	width: 20px;
+	height: 20px;
+	position: absolute; top: 380px; left: 225px;
+}
+
+#is2{
+	background-image: url(md.jpg);
+	width: 290px;
+	position: absolute; top:100px; left:150px;
+	border:2px solid;height: 350px;
+}
+
+#name2{
+	width: 220px;
+	position: absolute; top:90px; left:30px;
+	border:2px solid;height: 10px;
+}
+
+#passw2{
+	width: 220px;
+	position: absolute; top:140px; left:30px;
+	border:2px solid;height: 10px;
+}
+
+#reppassw{
+	width: 220px;
+	position: absolute; top:190px; left:30px;
+	border:2px solid;height: 10px;
+}
+
+#usu2{
+	width: 220px;
+	position: absolute; top:48px; left:30px;
+	font-size: 20px;
+}
+#con2{
+	width: 220px;
+	position: absolute; top:97px; left:30px;
+	font-size: 20px;
+}
+#repcon{
+	width: 220px;
+	position: absolute; top:145px; left:30px;
+	font-size: 20px;
+}
+#reg2{
+	font-size: 20px;
+	position: absolute; top:16px; left:26px;
+}
+#nashe{
+	position: absolute; top: 250px; left: 32px;
+}
+#pj2{
+	width: 420px;
+	height: 420px;
+	position: absolute; top: 20px; left: 420px;
+}
+#volver2{
+	width: 20px;
+	height: 20px;
+	position: absolute; top: 430px; left: 225px;
+}
